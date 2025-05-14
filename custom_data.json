@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Pikachu",
+    "description": "An Electric-type Pokémon known for its yellow fur and red cheeks.",
+    "specifications": {
+      "type": "Electric",
+      "evolution": "Raichu",
+      "ability": "Static"
+    },
+    "tags": ["electric", "starter", "Kanto"]
+  },
+  {
+    "name": "Charizard",
+    "description": "A powerful Fire/Flying Pokémon, final form of Charmander.",
+    "specifications": {
+      "type": "Fire/Flying",
+      "evolution": "Mega Charizard",
+      "ability": "Blaze"
+    },
+    "tags": ["fire", "dragon", "popular"]
+  },
+  {
+    "name": "Darkrai",
+    "description": "A Dark-type legendary Pokémon that causes nightmares.",
+    "specifications": {
+      "type": "Dark",
+      "ability": "Bad Dreams",
+      "region": "Sinnoh"
+    },
+    "tags": ["legendary", "dark", "sinnoh"]
+  }
+]
